@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido utilizando:
 
 ## 🔗 Link do Projeto
 
-Para acessar o projeto com as animações <a href="" target="_blank">Clique Aqui</a>.
+Para acessar o projeto com as animações <a href="https://projeto-lp-patins.vercel.app/" target="_blank">Clique Aqui</a>.
 
 ## 📝 Licença
 
