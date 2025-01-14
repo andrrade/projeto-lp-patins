@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Projeto de uma Landing Page animada de patins (Snitap), desenvolvida durante as aulas de Animações e Transições na Rocketseat.
+  Projeto de uma Landing Page de Patins Animada "Snitap", desenvolvida durante as aulas de Animações e Transições da Rocketseat.
 </p>
 
 <p align="center">
