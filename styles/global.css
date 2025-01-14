@@ -34,9 +34,9 @@ button {
   font: 500 var(--text-base) / 1.5 "Montserrat", serif;
 }
 
-html {
+/* html {
   zoom: 0.6;
-}
+} */
 
 h1,
 h2 {
