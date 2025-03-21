@@ -65,7 +65,7 @@ section.hero {
       }
 
       &.play span {
-        padding: 1.5rem;
+        /* padding: 1.5rem; */
         border-radius: 50%;
         background-color: white;
         display: flex;

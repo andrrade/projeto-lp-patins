@@ -16,7 +16,7 @@ header.top {
   }
 
   img[src*="logo"]:hover {
-    transform: rotate(90deg);
+    transform: rotate(360deg);
   }
 
   img[src*="shopping"]:hover {
